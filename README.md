@@ -52,10 +52,28 @@ STEP 5:
 update the DH parameters of the link configuration and end effector configuration.
 
 ### SIMULATION 
-### 3R PLANAR:
+### RPR ROBOT:
+![174305007-a5b24df5-117a-49f8-acdd-313cf22fa8c9](https://user-images.githubusercontent.com/93427201/204089081-de19064e-c6c4-405c-8210-2e6ee9b0533a.png)
 
-### 3R ARTICULATED:
-![image](https://user-images.githubusercontent.com/93427201/204088714-a775491e-3f74-4c7b-a7a9-c77bba225334.png)
+![174305368-06ac2d00-38b5-42fa-aaf9-3ad532e56503](https://user-images.githubusercontent.com/93427201/204089086-6f7e5076-9fa2-494b-8312-c97a120c34bf.png)
+
+### 3R ROBOT:
+![174305070-80a5f0ed-3e4c-4a9f-af96-5f20c6014bb0](https://user-images.githubusercontent.com/93427201/204089096-bd017e45-e241-43f1-a7e1-e62af7e3a05d.png)
+
+![174305404-886e4ddb-988a-44c7-9656-de86458da6a5](https://user-images.githubusercontent.com/93427201/204089103-4a9312ba-ed01-46f1-8965-0b9b512dcbd3.png)
+
+### PLOT:
+### RPR ROBOT:
+![174305436-5a8f6338-a8db-4143-8362-4a080c3074b3](https://user-images.githubusercontent.com/93427201/204089183-1e65cfa0-a46d-4b49-a76a-afcacce1c669.png)
+
+![174305460-626e119e-0d5a-4962-a14d-2c4f3f56dff9](https://user-images.githubusercontent.com/93427201/204089196-e827dfb8-733e-47d5-969c-3733c7aad121.png)
+
+
+### 3R ROBOT:
+![174305488-71b5cec7-3e25-4e2e-9ea3-5cac7667637e](https://user-images.githubusercontent.com/93427201/204089215-47f16f98-2053-4743-a4c6-2bf66b365151.png)
+
+![174305524-32aba2c4-f3b8-4cda-9cae-69acd66e0344](https://user-images.githubusercontent.com/93427201/204089224-9c94ab2e-868a-4f2c-aa2b-446cca80ac9a.png)
+
 
 ### RESULTS :  
 The inverse kinematics using DH parameters for a 3 dof planer and 3 dof articulated robot using roboanalyzer has been analyzed.
